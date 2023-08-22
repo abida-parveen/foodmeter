@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964864979306",
+    "firebase_url": "https://foodmeter-26f1f.firebaseio.com",
+    "project_id": "foodmeter-26f1f",
+    "storage_bucket": "foodmeter-26f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964864979306:android:e2f1d34819835ca7b1b513",
+        "android_client_info": {
+          "package_name": "com.abida.foodmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964864979306-jlb3flovv3hps0komjua2p5k1u60c7be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abida.foodmeter",
+            "certificate_hash": "00be5a3049c93c3f3dc448d06bf2e7b03dde7d11"
+          }
+        },
+        {
+          "client_id": "964864979306-7odctq5rmo50ncbonup8hsnbsq0fjc16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMBBgwbUjoa7kQIvt2FlMOkrDjWlBoB6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964864979306-7odctq5rmo50ncbonup8hsnbsq0fjc16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

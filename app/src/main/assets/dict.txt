@@ -1,0 +1,10 @@
+ChickenKorma
+ChickenHaleem
+MixVegetable
+ChickenPasta
+Chickenbroast
+ChickenNihari
+ChickenBurger
+FrenchFries
+DaalPalak
+ChickenBiryani
